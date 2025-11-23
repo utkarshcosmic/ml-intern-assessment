@@ -7,15 +7,24 @@ This project implements a Trigram (N-Gram) Language Model in Python. It is desig
 Project Structure
 
 ml-assignment/
-├── data/                    # Data storage
-├── src/
-│   ├── generate.py          # Entry point script to run the model
-│   └── ngram_model.py       # The core TrigramModel class
-├── tests/
-│   └── test_ngram.py        # Unit tests
-├── evaluation.md            # Design choices
-├── README.md                # This file
-└── requirements.txt         # Library required
+
+├── data/                    # Data storage 
+
+├── src/ 
+
+│   ├── generate.py          # Entry point script to run the model 
+
+│   └── ngram_model.py       # The core TrigramModel class 
+
+├── tests/ 
+
+│   └── test_ngram.py        # Unit tests 
+
+├── evaluation.md            # Design choices 
+
+├── README.md                # This file 
+
+└── requirements.txt         # Library required 
 
 Setup Instructions
 
